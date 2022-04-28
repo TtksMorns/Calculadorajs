@@ -33,3 +33,10 @@
     background-color:darkorange;
     text-align: center;
 }
+
+.resposta{
+    display: flex;
+    align-items: center;
+    margin:auto;
+    flex-direction: column;
+}
